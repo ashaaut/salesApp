@@ -8,7 +8,6 @@ class App extends React.Component {
     return (
 
         <h1>
-          hiii
           <Csvjson/>
         </h1>
     );
